@@ -1,0 +1,1 @@
+Whether to return dense output even when the input is sparse. If False, the output is sparse if both input arrays are sparse.
